@@ -4,8 +4,8 @@ A curated list of awesome neural network-based art resources.
 
 ### [Intro](#intro-1)
 
-- [Image-to-Image Transfer](#what-is-vim)
-- [The Vim Philosophy](#the-vim-philosophy)
+- [Image-to-Image Transfer](#image-to-image-transfer)
+- [Interactive Deep Colorization](#interactive-deep-colorization)
 - [First steps](#first-steps)
 - [Minimal vimrc](#minimal-vimrc)
 - [What kind of Vim am I running?](#what-kind-of-vim-am-i-running)
@@ -39,7 +39,7 @@ A curated list of awesome neural network-based art resources.
 
 # Intro
 
-## What is Vim?
+## Image-to-Image Transfer
 
 [Bicycle GAN](https://github.com/junyanz/BicycleGANg) 
 NIPS 2017 Toward Multimodal Image-to-Image Translation
@@ -49,7 +49,14 @@ NIPS 2017 Toward Multimodal Image-to-Image Translation
 
 Pytorch implementation for multimodal image-to-image translation. For example, given the same night image, our model is able to synthesize possible day images with different types of lighting, sky and clouds. The training requires paired data.
 
-## The Vim Philosophy
+## Interactive Deep Colorization
+
+[nteractive-deep-colorization](https://github.com/junyanz/interactive-deep-colorization)
+
+
+<img src='https://github.com/junyanz/interactive-deep-colorization/imgs/demo.gif' width=600>  
+
+<img src='https://richzhang.github.io/ideepcolor/index_files/imagenet_showcase_small.jpg' width=800>
 
 Vim adheres to the modal editing philosophy. This means that it provides
 multiple modes and the meaning of keys changes according to the mode. You
