@@ -44,6 +44,10 @@ A curated list of awesome neural network-based art resources.
 - [neural-doodle](#neural-doodle)
 - [iGAN](#iGAN)
 
+### [Lectures](#lectures)
+
+- [The Neural Aesthetic](#neural-aesthetic)
+
 
 
 
@@ -198,5 +202,7 @@ iGAN: Interactive Image Generation via Generative Adversarial Networks
 <img src='https://raw.githubusercontent.com/junyanz/iGAN/master/pics/demo.gif' width=820>  
 
 
+# Lectures
 
+## [The Neural Aesthetic @ ITP-NYU, Fall 2018](https://ml4a.github.io/classes/itp-F18/)
 
