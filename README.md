@@ -3,13 +3,16 @@
 A curated list of awesome neural network-based art resources.
 
 
+### [Multiple categories](#multi-category)
 
+- [deep-image-prior](#deep-image-prior)
 
 ### [Colorization](#colorization)
 
 - [Interactive Deep Colorization](#interactive-deep-colorization)
 - [Colornet](#colornet)
 - [Colorful Image Colorization](#colorful-image-colorization)
+- [style2paints](#style2paints)
 
 ### [Style Transfer](#style-transfer)
 
@@ -20,11 +23,13 @@ A curated list of awesome neural network-based art resources.
 - [texture_nets](#texture_nets)
 - [AdaIN-style](#AdaIN-style)
 - [Image-to-Image Transfer](#image-to-image-transfer)
+- [Neural Style Transfer](#Neural-Style-Transfer)
 
 ### [Super Resolution](#super-resolution)
 
 - [waifu2x](#waifu2x)
 - [srgan](#srgan)
+- [fft-descreen](#fft-descreen)
 
 
 ### [Patching](#patching)
@@ -32,12 +37,24 @@ A curated list of awesome neural network-based art resources.
 
 ### [Deep Dream](#deep-dream)
 
+- [deepdream](#deepdream)
+
 ### [Doodle to Image](#doodle-to-image)
 
 - [neural-doodle](#neural-doodle)
+- [iGAN](#iGAN)
 
 
 
+
+
+# Multiple categories
+
+## [deep-image-prior](https://github.com/DmitryUlyanov/deep-image-prior)
+
+Image restoration with neural networks but without learning.
+
+artifact removal, inpainting, super-resolution, denoising
 
 
 
@@ -61,6 +78,11 @@ A subreddit where people do this manually: https://www.reddit.com/r/Colorization
 ## [Colorful Image Colorization](https://github.com/richzhang/colorization)
 
 <img src='https://camo.githubusercontent.com/0f54d76e1561911ef2c423251c386a9368551365/687474703a2f2f726963687a68616e672e6769746875622e696f2f636f6c6f72697a6174696f6e2f7265736f75726365732f696d616765732f746561736572342e6a7067' width=600>  
+
+
+## [style2paints](https://github.com/lllyasviel/style2paints/)
+
+sketch + style = paints art 
 
 # Style Transfer
 
@@ -114,12 +136,23 @@ Neat features:
 ## Image-to-Image Transfer
 
 [Bicycle GAN](https://github.com/junyanz/BicycleGANg) 
+
 NIPS 2017 Toward Multimodal Image-to-Image Translation
 
 <img src='https://github.com/junyanz/BicycleGAN/blob/master/imgs/results_matrix.jpg' width=820>  
 
 
 Pytorch implementation for multimodal image-to-image translation. For example, given the same night image, our model is able to synthesize possible day images with different types of lighting, sky and clouds. The training requires paired data.
+
+
+## [Neural Style Transfer & Neural Doodles](https://github.com/titu1994/Neural-Style-Transfer)
+
+
+Keras Implementation of Neural Style Transfer from the paper "A Neural Algorithm of Artistic Style" (http://arxiv.org/abs/1508.06576) in Keras 2.0+ 
+
+https://github.com/titu1994/Neural-Style-Transfer#examples
+
+
 
 # Super Resolution
 
@@ -135,6 +168,9 @@ Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Net
 
 <img src='https://raw.githubusercontent.com/tensorlayer/srgan/master/img/SRGAN_Result3.png' width=820>  
 
+## [fft-descreen](https://github.com/6o6o/fft-descreen)
+
+Originally intended to clean up deconvolution checkerboard artifacts, found in style transferred images, I thought it may have its uses in other areas, like cleaning low-dpi scans and therefor would be better off as a separate script. I excluded the optional despeckle step, found in original plugin for being too destructive. Instead, I find waifu2x to give a superior result in case of artistically styled images, thus tend to use it with maximum noise reduction as a second step.
 
 
 # Patching
@@ -143,6 +179,7 @@ Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Net
 
 # Deep Dream
 
+## [deepdream](https://github.com/google/deepdream)
 
 # Doodle to Image
 
@@ -152,3 +189,14 @@ Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Net
 Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling, but wait... there's more! (An implementation of Semantic Style Transfer.) 
 
 <img src='https://github.com/alexjc/neural-doodle/blob/master/docs/Workflow.gifx' width=820>  
+
+
+## [iGAN](https://github.com/junyanz/iGAN)
+
+iGAN: Interactive Image Generation via Generative Adversarial Networks
+
+<img src='https://raw.githubusercontent.com/junyanz/iGAN/master/pics/demo.gif' width=820>  
+
+
+
+
