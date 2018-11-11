@@ -14,6 +14,7 @@ A curated list of awesome neural network-based art resources.
 ### [Style Transfer](#style-transfer)
 
 - [Neural Style](#neural-style)
+- [adaptive-style-transfer](#adaptive-style-transfer)
 - [Image-to-Image Transfer](#image-to-image-transfer)
 
 ### [Super Resolution](#super-resolution)
@@ -25,29 +26,11 @@ A curated list of awesome neural network-based art resources.
 ### [Patching](#patching)
 
 
-- [Getting help online](#getting-help-online)
-- [Autocmds in practice](#autocmds-in-practice)
-  - [User events](#user-events)
-  - [Nested autocmds](#nested-autocmds)
-- [Clipboard](#clipboard)
-  - [Clipboard usage (Windows, macOS)](#clipboard-usage-windows-macos)
-  - [Clipboard usage (Linux, BSD, ...)](#clipboard-usage-linux-bsd-)
-- [Restore cursor position when opening file](#restore-cursor-position-when-opening-file)
-- [Temporary files](#temporary-files)
-  - [Backup files](#backup-files)
-  - [Swap files](#swap-files)
-  - [Undo files](#undo-files)
-  - [Viminfo files](#viminfo-files)
-  - [Example configuration for temporary files](#example-configuration-for-temporary-files)
-- [Editing remote files](#editing-remote-files)
-- [Managing plugins](#managing-plugins)
-- [Block insert](#block-insert)
-- [Running external programs and using filters](#running-external-programs-and-using-filters)
-- [Cscope](#cscope)
-- [MatchIt](#matchit)
-- [True colors](#true-colors)
-
 ### [Deep Dream](#deep-dream)
+
+### [Doodle to Image](#doodle-to-image)
+
+- [neural-doodle](#neural-doodle)
 
 
 
@@ -60,24 +43,18 @@ A curated list of awesome neural network-based art resources.
 
 A subreddit where people do this manually: https://www.reddit.com/r/Colorization
 
-## Interactive Deep Colorization
-
-[interactive-deep-colorization](https://github.com/junyanz/interactive-deep-colorization)
+## [Interactive Deep Colorization](https://github.com/junyanz/interactive-deep-colorization)
 
 
 <img src='https://github.com/junyanz/interactive-deep-colorization/blob/master/imgs/demo.gif' width=600>  
 
 <img src='https://richzhang.github.io/ideepcolor/index_files/imagenet_showcase_small.jpg' width=800>
 
-## colornet
-
-[colornet](https://github.com/pavelgonchar/colornet)
+## [colornet](https://github.com/pavelgonchar/colornet)
 
 <img src='https://raw.githubusercontent.com/pavelgonchar/colornet/master/summary/209000_0.png' width=600>  
 
-## Colorful Image Colorization
-
-[colorization](https://github.com/richzhang/colorization)
+## [Colorful Image Colorization](https://github.com/richzhang/colorization)
 
 <img src='https://camo.githubusercontent.com/0f54d76e1561911ef2c423251c386a9368551365/687474703a2f2f726963687a68616e672e6769746875622e696f2f636f6c6f72697a6174696f6e2f7265736f75726365732f696d616765732f746561736572342e6a7067' width=600>  
 
@@ -88,6 +65,12 @@ A subreddit where people do this manually: https://www.reddit.com/r/Colorization
 Torch implementation of neural style algorithm 
 <img src='https://raw.githubusercontent.com/jcjohnson/neural-style/master/examples/outputs/starry_stanford_bigger.png' width=600>  
 
+
+## [adaptive-style-transfer](https://github.com/tensorlayer/adaptive-style-transfer)
+
+Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization
+
+https://github.com/tensorlayer/adaptive-style-transfer#results
 
 ## Image-to-Image Transfer
 
@@ -120,3 +103,13 @@ Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Net
 
 
 # Deep Dream
+
+
+# Doodle to Image
+
+## [neural-doodle](https://github.com/alexjc/neural-doodle)
+
+
+Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling, but wait... there's more! (An implementation of Semantic Style Transfer.) 
+
+<img src='https://github.com/alexjc/neural-doodle/blob/master/docs/Workflow.gifx' width=820>  
