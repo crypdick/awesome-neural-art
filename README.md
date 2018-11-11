@@ -2,8 +2,6 @@
 
 A curated list of awesome neural network-based art resources.
 
-### [Deep Dream](#deep-dream)
-
 
 
 
@@ -15,9 +13,13 @@ A curated list of awesome neural network-based art resources.
 
 ### [Style Transfer](#style-transfer)
 
+- [Neural Style](#neural-style)
 - [Image-to-Image Transfer](#image-to-image-transfer)
 
 ### [Super Resolution](#super-resolution)
+
+- [waifu2x](#waifu2x)
+- [srgan](#srgan)
 
 
 ### [Patching](#patching)
@@ -45,8 +47,9 @@ A curated list of awesome neural network-based art resources.
 - [MatchIt](#matchit)
 - [True colors](#true-colors)
 
+### [Deep Dream](#deep-dream)
 
-# Deep Dream
+
 
 
 
@@ -80,6 +83,12 @@ A subreddit where people do this manually: https://www.reddit.com/r/Colorization
 
 # Style Transfer
 
+## [neural-style](https://github.com/jcjohnson/neural-style)
+
+Torch implementation of neural style algorithm 
+<img src='https://raw.githubusercontent.com/jcjohnson/neural-style/master/examples/outputs/starry_stanford_bigger.png' width=600>  
+
+
 ## Image-to-Image Transfer
 
 [Bicycle GAN](https://github.com/junyanz/BicycleGANg) 
@@ -92,4 +101,22 @@ Pytorch implementation for multimodal image-to-image translation. For example, g
 
 # Super Resolution
 
+## [waifu2x](https://github.com/nagadomi/waifu2x)
+
+Image Super-Resolution for Anime-Style Art 
+
+<img src='https://raw.githubusercontent.com/nagadomi/waifu2x/master/images/slide.png' width=820>  
+
+## [srgan](https://github.com/tensorlayer/srgan)
+
+Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network 
+
+<img src='https://raw.githubusercontent.com/tensorlayer/srgan/master/img/SRGAN_Result3.png' width=820>  
+
+
+
 # Patching
+
+
+
+# Deep Dream
