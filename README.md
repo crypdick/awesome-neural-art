@@ -2,19 +2,27 @@
 
 A curated list of awesome neural network-based art resources.
 
-### [Intro](#intro-1)
+### [Deep Dream](#deep-dream)
 
-- [Image-to-Image Transfer](#image-to-image-transfer)
-- [First steps](#first-steps)
-- [Minimal vimrc](#minimal-vimrc)
-- [What kind of Vim am I running?](#what-kind-of-vim-am-i-running)
-- [Cheatsheets](#cheatsheets)
+
+
 
 ### [Colorization](#colorization)
 
 - [Interactive Deep Colorization](#interactive-deep-colorization)
 - [Colornet](#colornet)
 - [Colorful Image Colorization](#colorful-image-colorization)
+
+### [Style Transfer](#style-transfer)
+
+- [Image-to-Image Transfer](#image-to-image-transfer)
+
+### [Super Resolution](#super-resolution)
+
+
+### [Patching](#patching)
+
+
 - [Getting help online](#getting-help-online)
 - [Autocmds in practice](#autocmds-in-practice)
   - [User events](#user-events)
@@ -37,17 +45,13 @@ A curated list of awesome neural network-based art resources.
 - [MatchIt](#matchit)
 - [True colors](#true-colors)
 
-# Intro
 
-## Image-to-Image Transfer
-
-[Bicycle GAN](https://github.com/junyanz/BicycleGANg) 
-NIPS 2017 Toward Multimodal Image-to-Image Translation
-
-<img src='https://github.com/junyanz/BicycleGAN/blob/master/imgs/results_matrix.jpg' width=820>  
+# Deep Dream
 
 
-Pytorch implementation for multimodal image-to-image translation. For example, given the same night image, our model is able to synthesize possible day images with different types of lighting, sky and clouds. The training requires paired data.
+
+
+
 
 # Colorization
 
@@ -73,3 +77,19 @@ A subreddit where people do this manually: https://www.reddit.com/r/Colorization
 [colorization](https://github.com/richzhang/colorization)
 
 <img src='https://camo.githubusercontent.com/0f54d76e1561911ef2c423251c386a9368551365/687474703a2f2f726963687a68616e672e6769746875622e696f2f636f6c6f72697a6174696f6e2f7265736f75726365732f696d616765732f746561736572342e6a7067' width=600>  
+
+# Style Transfer
+
+## Image-to-Image Transfer
+
+[Bicycle GAN](https://github.com/junyanz/BicycleGANg) 
+NIPS 2017 Toward Multimodal Image-to-Image Translation
+
+<img src='https://github.com/junyanz/BicycleGAN/blob/master/imgs/results_matrix.jpg' width=820>  
+
+
+Pytorch implementation for multimodal image-to-image translation. For example, given the same night image, our model is able to synthesize possible day images with different types of lighting, sky and clouds. The training requires paired data.
+
+# Super Resolution
+
+# Patching
