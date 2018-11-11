@@ -13,8 +13,8 @@ A curated list of awesome neural network-based art resources.
 ### [Colorization](#colorization)
 
 - [Interactive Deep Colorization](#interactive-deep-colorization)
-- [Colornet](#colornet
-- [Getting help offline (alternative)](#getting-help-offline-alternative)
+- [Colornet](#colornet)
+- [Colorful Image Colorization](#colorful-image-colorization)
 - [Getting help online](#getting-help-online)
 - [Autocmds in practice](#autocmds-in-practice)
   - [User events](#user-events)
@@ -67,3 +67,9 @@ A subreddit where people do this manually: https://www.reddit.com/r/Colorization
 [colornet](https://github.com/pavelgonchar/colornet)
 
 <img src='https://raw.githubusercontent.com/pavelgonchar/colornet/master/summary/209000_0.png' width=600>  
+
+## Colorful Image Colorization
+
+[colorization](https://github.com/richzhang/colorization)
+
+<img src='https://camo.githubusercontent.com/0f54d76e1561911ef2c423251c386a9368551365/687474703a2f2f726963687a68616e672e6769746875622e696f2f636f6c6f72697a6174696f6e2f7265736f75726365732f696d616765732f746561736572342e6a7067' width=600>  
