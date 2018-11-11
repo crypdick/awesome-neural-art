@@ -15,6 +15,10 @@ A curated list of awesome neural network-based art resources.
 
 - [Neural Style](#neural-style)
 - [adaptive-style-transfer](#adaptive-style-transfer)
+- [deep-photo-styletransfer](#deep-photo-styletransfer)
+- [fast-style-transfer](#fast-style-transfer)
+- [texture_nets](#texture_nets)
+- [AdaIN-style](#AdaIN-style)
 - [Image-to-Image Transfer](#image-to-image-transfer)
 
 ### [Super Resolution](#super-resolution)
@@ -63,6 +67,7 @@ A subreddit where people do this manually: https://www.reddit.com/r/Colorization
 ## [neural-style](https://github.com/jcjohnson/neural-style)
 
 Torch implementation of neural style algorithm 
+
 <img src='https://raw.githubusercontent.com/jcjohnson/neural-style/master/examples/outputs/starry_stanford_bigger.png' width=600>  
 
 
@@ -71,6 +76,40 @@ Torch implementation of neural style algorithm
 Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization
 
 https://github.com/tensorlayer/adaptive-style-transfer#results
+
+## [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer)
+
+Code and data for paper "Deep Photo Style Transfer": https://arxiv.org/abs/1703.07511
+
+
+https://github.com/luanfujun/deep-photo-styletransfer#examples
+
+## [fast-style-transfer](https://github.com/lengstrom/fast-style-transfer)
+
+TensorFlow CNN for fast style transfer
+
+https://github.com/lengstrom/fast-style-transfer#image-stylization
+
+Our implementation uses TensorFlow to train a fast style transfer network. We use roughly the same transformation network as described in Johnson, except that batch normalization is replaced with Ulyanov's instance normalization, and the scaling/offset of the output tanh layer is slightly different. We use a loss function close to the one described in Gatys, using VGG19 instead of VGG16 and typically using "shallower" layers than in Johnson's implementation (e.g. we use relu1_1 rather than relu1_2). Empirically, this results in larger scale style features in transformations.
+
+## [texture_nets](https://github.com/DmitryUlyanov/texture_nets)
+
+Code for "Texture Networks: Feed-forward Synthesis of Textures and Stylized Images" paper. 
+
+## [AdaIN-style](https://github.com/xunhuang1995/AdaIN-style)
+
+Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization https://arxiv.org/abs/1703.06868
+
+Neat features:
+
+- [Transfer style but not color](https://github.com/xunhuang1995/AdaIN-style#transfer-style-but-not-color)
+- Style interpolation
+
+<img src='https://raw.githubusercontent.com/xunhuang1995/AdaIN-style/master/examples/style_interp.jpg' width=600>  
+ - spatial control
+ 
+<img src='https://raw.githubusercontent.com/xunhuang1995/AdaIN-style/master/examples/spatial_control.jpg' width=600>  
+
 
 ## Image-to-Image Transfer
 
