@@ -24,6 +24,7 @@ A curated list of awesome neural network-based art resources.
 - [AdaIN-style](#AdaIN-style)
 - [Image-to-Image Transfer](#image-to-image-transfer)
 - [Neural Style Transfer](#Neural-Style-Transfer)
+- [Deep Painterly Harmonization](#deep-painterly-harmonization)
 
 ### [Super Resolution](#super-resolution)
 
@@ -157,6 +158,9 @@ Keras Implementation of Neural Style Transfer from the paper "A Neural Algorithm
 https://github.com/titu1994/Neural-Style-Transfer#examples
 
 
+## [Deep Painterly Harmonization](https://github.com/luanfujun/deep-painterly-harmonization)
+
+Photoshopping an object into a painting, and then neural network changes the style (pallete, strokes, luminosity, etc) of the object to match the painting style. Paper: https://arxiv.org/abs/1804.03189
 
 # Super Resolution
 
