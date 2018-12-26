@@ -1,6 +1,6 @@
 # Awesome Neural Art 
 
-A curated list of awesome neural network-based art resources.
+A curated list of awesome neural network-based art resources. 
 
 
 ### [Multiple categories](#multi-category)
@@ -48,8 +48,7 @@ A curated list of awesome neural network-based art resources.
 ### [Lectures](#lectures)
 
 - [The Neural Aesthetic](#neural-aesthetic)
-
-
+- [Neural Style Transfer Review](#neural-style-transfer-review)
 
 
 
@@ -206,7 +205,11 @@ iGAN: Interactive Image Generation via Generative Adversarial Networks
 <img src='https://raw.githubusercontent.com/junyanz/iGAN/master/pics/demo.gif' width=820>  
 
 
-# Lectures
+# Lectures/Reviews
 
 ## [The Neural Aesthetic @ ITP-NYU, Fall 2018](https://ml4a.github.io/classes/itp-F18/)
+
+## [Neural Style Transfer Review](https://github.com/ycjing/Neural-Style-Transfer-Papers)
+
+Repo for the review article: https://arxiv.org/abs/1705.04058
 
