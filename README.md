@@ -36,7 +36,7 @@ A curated list of awesome neural network-based art resources.
 
 ### [Patching](#patching)
 
-### [Image matting}(#image-matting)
+### [Image matting](#image-matting)
 
 
 ### [Deep Dream](#deep-dream)
@@ -191,7 +191,7 @@ AKA subtracting the background from the foreground.
 
 ## [Dataset generator](https://github.com/hector-sab/DIM_DataCreation)
 
-## 
+## Deep Image Matting
 
 Implementations of the [following [paper](https://sites.google.com/view/deepimagematting).
 
