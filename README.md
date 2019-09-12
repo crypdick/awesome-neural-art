@@ -58,7 +58,7 @@ Neat features:
 <img src='https://raw.githubusercontent.com/xunhuang1995/AdaIN-style/master/examples/spatial_control.jpg' width=600>  
 
 
-# Image-to-Image Transfer
+## Image-to-Image Transfer
 
 - [Bicycle GAN](https://github.com/junyanz/BicycleGANg) - NIPS 2017 Toward Multimodal Image-to-Image Translation
 
@@ -68,13 +68,13 @@ Neat features:
 Pytorch implementation. Given the same night image, our model is able to synthesize possible day images with different types of lighting, sky and clouds. The training requires paired data.
 
 
-# Neural Style Transfer & Neural Doodles
+## Neural Style Transfer & Neural Doodles
 
 - [Neural Style Transfer](https://github.com/titu1994/Neural-Style-Transfer) - Keras Implementation of Neural Style Transfer from the paper ["A Neural Algorithm of Artistic Style"](http://arxiv.org/abs/1508.06576) in Keras 2.0+
 
 - [Deep Painterly Harmonization](https://github.com/luanfujun/deep-painterly-harmonization) - Photoshopping an object into a painting, and then neural network changes the style (pallete, strokes, luminosity, etc) of the object to match the painting style. [See paper](https://arxiv.org/abs/1804.03189).
 
-# Super Resolution
+## Super Resolution
 
 - [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art 
 
@@ -86,9 +86,9 @@ Pytorch implementation. Given the same night image, our model is able to synthes
 
 - [fft-descreen](https://github.com/6o6o/fft-descreen) - Clean up deconvolution checkerboard artifacts found in style transferred images.
 
-# Patching
+## Patching
 
-# Image matting
+## Image matting
 
 AKA subtracting the background from the foreground. See also: [Awesome Background Subtraction](https://github.com/murari023/awesome-background-subtraction)
 
@@ -103,11 +103,11 @@ AKA subtracting the background from the foreground. See also: [Awesome Backgroun
 - [AlphaGAN](https://github.com/CDOTAD/AlphaGAN-Matting) - Unofficial implementation of [AlphaGAN: Generative adversarial networks for natural image matting](https://arxiv.org/pdf/1807.10088.pdf). Uses a GAN as the name suggests.
 - [DeepLab V3+](https://github.com/jfzhang95/pytorch-deeplab-xception) - Implementations of an encoder-decoder Modified Aligned Xception and ResNet as backbone [(paper)](https://arxiv.org/pdf/1802.02611.pdf).
 
-# Deep Dream
+## Deep Dream
 
 - [deepdream](https://github.com/google/deepdream)
 
-# Doodle to Image
+## Doodle to Image
 
 - [neural-doodle](https://github.com/alexjc/neural-doodle) - 
 Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling, but wait... there's more! (An implementation of Semantic Style Transfer.) 
@@ -120,11 +120,11 @@ Turn your two-bit doodles into fine artworks with deep neural networks, generate
 <img src='https://raw.githubusercontent.com/junyanz/iGAN/master/pics/demo.gif' width=820>  
 
 
-# Multiple categories
+## Multiple categories
 
 - [deep-image-prior](https://github.com/DmitryUlyanov/deep-image-prior) -  Image restoration with neural networks but without learning. Does artifact removal, inpainting, super-resolution, denoising
 
-# Lectures/Reviews
+## Lectures/Reviews
 
 - [The Neural Aesthetic @ ITP-NYU, Fall 2018](https://ml4a.github.io/classes/itp-F18/)
 - [Neural Style Transfer Review](https://github.com/ycjing/Neural-Style-Transfer-Papers) - Repo for the [Neural Style Transfer review article](https://arxiv.org/abs/1705.04058).
