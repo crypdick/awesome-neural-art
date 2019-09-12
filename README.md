@@ -93,19 +93,18 @@ Pytorch implementation. Given the same night image, our model is able to synthes
 AKA subtracting the background from the foreground. See also: [Awesome Background Subtraction](https://github.com/murari023/awesome-background-subtraction)
 
 - Deep Image Matting - Implementations of the [Deep Image Matting paper](https://sites.google.com/view/deepimagematting).
-    - [Dataset generator](https://github.com/hector-sab/DIM_DataCreation) - Generates training data for the Deep Image Matting paper.
-    - [Tensorflow implementation](https://github.com/Joker316701882/Deep-Image-Matting) - Original paper author.
-    - [PyTorch implementation](https://github.com/foamliu/Deep-Image-Matting-v2) - Same author as [Keras implementation](https://github.com/foamliu/Deep-Image-Matting), but this is their improved (and maintained) codebase.
-    - [Another PyTorch implementation](https://github.com/huochaitiantang/pytorch-deep-image-matting)
+  - [Dataset generator](https://github.com/hector-sab/DIM_DataCreation) - Generates training data for the Deep Image Matting paper.
+  - [Tensorflow implementation](https://github.com/Joker316701882/Deep-Image-Matting) - Original paper author.
+  - [PyTorch implementation](https://github.com/foamliu/Deep-Image-Matting-v2) - Same author as [Keras implementation](https://github.com/foamliu/Deep-Image-Matting), but this is their improved (and maintained) codebase.
+  - [Another PyTorch implementation](https://github.com/huochaitiantang/pytorch-deep-image-matting)
 
 - [Salient Object Detection](https://github.com/Joker316701882/Salient-Object-Detection) - Tensorflow implementation for cvpr2017 paper ["Deeply Supervised Salient Object Detection with Short Connections"](https://arxiv.org/abs/1611.04849) (not peer reviewed). Same author as original Deep Image Matting author.
-
 - [AlphaGAN](https://github.com/CDOTAD/AlphaGAN-Matting) - Unofficial implementation of [AlphaGAN: Generative adversarial networks for natural image matting](https://arxiv.org/pdf/1807.10088.pdf). Uses a GAN as the name suggests.
 - [DeepLab V3+](https://github.com/jfzhang95/pytorch-deeplab-xception) - Implementations of an encoder-decoder Modified Aligned Xception and ResNet as backbone [(paper)](https://arxiv.org/pdf/1802.02611.pdf).
 
 ## Deep Dream
 
-- [deepdream](https://github.com/google/deepdream)
+- [deepdream](https://github.com/google/deepdream) - The original Google implementation.
 
 ## Doodle to Image
 
