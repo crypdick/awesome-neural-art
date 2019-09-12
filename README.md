@@ -35,6 +35,8 @@ A curated list of awesome neural network-based art resources.
 
 ### [Patching](#patching)
 
+### [Image matting}(#image-matting)
+
 
 ### [Deep Dream](#deep-dream)
 
@@ -182,7 +184,23 @@ Originally intended to clean up deconvolution checkerboard artifacts, found in s
 
 # Patching
 
+# Image matting
 
+AKA subtracting the background from the foreground. The following are all different implementations of the [following [paper](https://sites.google.com/view/deepimagematting).
+
+### [Tensorflow implementation](https://github.com/Joker316701882/Deep-Image-Matting)
+
+Original paper author.
+
+### [Keras implementaion](https://github.com/foamliu/Deep-Image-Matting)
+
+Unmaintained.
+
+### [PyTorch implementation](https://github.com/foamliu/Deep-Image-Matting-v2)
+
+Same author as Keras implementation, this is their improved codebase.
+
+### [Another PyTorch implementation](https://github.com/huochaitiantang/pytorch-deep-image-matting)
 
 # Deep Dream
 
