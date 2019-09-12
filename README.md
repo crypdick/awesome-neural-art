@@ -2,6 +2,7 @@
 
 A curated list of awesome neural network-based art resources. 
 
+# Contents
 
 ### [Multiple categories](#multi-category)
 
