@@ -10,7 +10,7 @@ Creating art and manipulating images using deep neural networks.
 - [Patching](#patching)
 - [Image matting](#image-matting)
 - [Deep Dream](#deep-dream)
-- [Interactive Art](#interactive-art)
+- [Interactive art](#interactive-art)
 - [Multiple categories](#multi-category)
 - [Lectures](#lectures)
 
@@ -55,7 +55,7 @@ Neat features:
 <img src='https://raw.githubusercontent.com/xunhuang1995/AdaIN-style/master/examples/spatial_control.jpg' width=600>  
 
 
-- [Bicycle GAN](https://github.com/junyanz/BicycleGANg) - NIPS 2017 Toward Multimodal Image-to-Image Translation, PyTorch implementation. Given the same night image, model is able to synthesize possible day images with different types of lighting, sky and clouds.
+- [Bicycle GAN](https://github.com/junyanz/BicycleGAN) - NIPS 2017 Toward Multimodal Image-to-Image Translation, PyTorch implementation. Given the same night image, model is able to synthesize possible day images with different types of lighting, sky and clouds.
 
 <img src='https://github.com/junyanz/BicycleGAN/blob/master/imgs/results_matrix.jpg' width=820>  
 
