@@ -63,8 +63,6 @@ Neat features:
 <img src='https://github.com/junyanz/BicycleGAN/blob/master/imgs/results_matrix.jpg' width=820>  
 
 
-## Neural Style Transfer & Neural Doodles
-
 - [Neural Style Transfer](https://github.com/titu1994/Neural-Style-Transfer) - Keras Implementation of Neural Style Transfer from the paper ["A Neural Algorithm of Artistic Style"](http://arxiv.org/abs/1508.06576) in Keras 2.0+.
 - [Deep Painterly Harmonization](https://github.com/luanfujun/deep-painterly-harmonization) - Photoshopping an object into a painting, and then neural network changes the style (pallete, strokes, luminosity, etc) of the object to match the painting style. [See paper](https://arxiv.org/abs/1804.03189).
 
