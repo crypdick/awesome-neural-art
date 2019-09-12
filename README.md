@@ -8,7 +8,7 @@ Creating art and manipulating images using deep neural networks.
 - [Style Transfer](#style-transfer)
 - [Super Resolution](#super-resolution)
 - [Patching](#patching)
-- [Image matting](#image-matting)
+- [Background subtraction](#background-subtraction)
 - [Deep Dream](#deep-dream)
 - [Interactive art](#interactive-art)
 - [Multiple categories](#multiple-category)
@@ -77,9 +77,19 @@ Neat features:
 
 ## Patching
 
-## Image matting
+AKA in-painting
 
-AKA subtracting the background from the foreground. See also: [Awesome Background Subtraction](https://github.com/murari023/awesome-background-subtraction)
+- [Generative Image Inpainting with Contextual Attention](Generative Image Inpainting with Contextual Attention) - 
+- [EdgeConnect](https://github.com/knazeri/edge-connect) - a two-stage adversarial model that comprises of an edge generator followed by an image completion network.
+<img src='https://user-images.githubusercontent.com/1743048/50673917-aac15080-0faf-11e9-9100-ef10864087c8.png' width=820>
+- [Deep Image Completion](https://github.com/adamstseng/general-deep-image-completion) - Contains face-completion and general image completion models. Each can complete images with differnet types of corrupted masks like scribbles, lines, dots and texts.
+<img src='https://raw.githubusercontent.com/adamstseng/general-deep-image-completion/master/general-completion.jpg' width=820>
+
+
+
+## Background subtraction
+
+AKA image matting. See also: [Awesome Background Subtraction](https://github.com/murari023/awesome-background-subtraction)
 
 - Deep Image Matting - Implementations of the [Deep Image Matting paper](https://sites.google.com/view/deepimagematting).
   - [Dataset generator](https://github.com/hector-sab/DIM_DataCreation) - Generates training data for the Deep Image Matting paper.
