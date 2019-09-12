@@ -175,7 +175,7 @@ Originally intended to clean up deconvolution checkerboard artifacts, found in s
 
 # Image matting
 
-AKA subtracting the background from the foreground. 
+AKA subtracting the background from the foreground. See also: [Awesome Background Subtraction](https://github.com/murari023/awesome-background-subtraction)
 
 ## [Dataset generator](https://github.com/hector-sab/DIM_DataCreation)
 
