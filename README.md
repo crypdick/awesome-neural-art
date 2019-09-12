@@ -4,10 +4,6 @@ Creating art and manipulating images using deep neural networks.
 
 # Contents
 
-### [Multiple categories](#multi-category)
-
-- [deep-image-prior](#deep-image-prior)
-
 ### [Colorization](#colorization)
 
 - [Interactive Deep Colorization](#interactive-deep-colorization)
@@ -48,23 +44,15 @@ Creating art and manipulating images using deep neural networks.
 - [neural-doodle](#neural-doodle)
 - [iGAN](#iGAN)
 
+
+### [Multiple categories](#multi-category)
+
+- [deep-image-prior](#deep-image-prior)
+
 ### [Lectures](#lectures)
 
 - [The Neural Aesthetic](#neural-aesthetic)
 - [Neural Style Transfer Review](#neural-style-transfer-review)
-
-
-
-# Multiple categories
-
-## [deep-image-prior](https://github.com/DmitryUlyanov/deep-image-prior)
-
-Image restoration with neural networks but without learning.
-
-artifact removal, inpainting, super-resolution, denoising
-
-
-
 
 
 # Colorization
@@ -241,6 +229,18 @@ Turn your two-bit doodles into fine artworks with deep neural networks, generate
 iGAN: Interactive Image Generation via Generative Adversarial Networks
 
 <img src='https://raw.githubusercontent.com/junyanz/iGAN/master/pics/demo.gif' width=820>  
+
+
+# Multiple categories
+
+## [deep-image-prior](https://github.com/DmitryUlyanov/deep-image-prior)
+
+Image restoration with neural networks but without learning.
+
+artifact removal, inpainting, super-resolution, denoising
+
+
+
 
 
 # Lectures/Reviews
