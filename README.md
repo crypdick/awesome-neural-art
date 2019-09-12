@@ -42,23 +42,14 @@ See also: [this subreddit](https://www.reddit.com/r/Colorization) where people d
 - [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer) - Code and data for ["Deep Photo Style Transfer"](https://arxiv.org/abs/1703.07511).
 - [fast-style-transfer](https://github.com/lengstrom/fast-style-transfer#image-stylization) - TensorFlow CNN for fast style transfer with larger scale style features in transformations.
 - [texture_nets](https://github.com/DmitryUlyanov/texture_nets) - Code for "Texture Networks: Feed-forward Synthesis of Textures and Stylized Images". 
-- [AdaIN-style](https://github.com/xunhuang1995/AdaIN-style) - Code for [Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://arxiv.org/abs/1703.06868)
-
-Neat features:
-
-- [Transfer style but not color](https://github.com/xunhuang1995/AdaIN-style#transfer-style-but-not-color)
-- Style interpolation
+- [AdaIN-style](https://github.com/xunhuang1995/AdaIN-style) - Code for [Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://arxiv.org/abs/1703.06868). Contains neat features such as transfering style without color, style interpolation, and spatial control
 
 <img src='https://raw.githubusercontent.com/xunhuang1995/AdaIN-style/master/examples/style_interp.jpg' width=600>  
- - spatial control
- 
 <img src='https://raw.githubusercontent.com/xunhuang1995/AdaIN-style/master/examples/spatial_control.jpg' width=600>  
-
 
 - [Bicycle GAN](https://github.com/junyanz/BicycleGAN) - NIPS 2017 Toward Multimodal Image-to-Image Translation, PyTorch implementation. Given the same night image, model is able to synthesize possible day images with different types of lighting, sky and clouds.
 
 <img src='https://github.com/junyanz/BicycleGAN/blob/master/imgs/results_matrix.jpg' width=820>  
-
 
 - [Neural Style Transfer](https://github.com/titu1994/Neural-Style-Transfer) - Keras Implementation of Neural Style Transfer from the paper ["A Neural Algorithm of Artistic Style"](http://arxiv.org/abs/1508.06576) in Keras 2.0+.
 - [Deep Painterly Harmonization](https://github.com/luanfujun/deep-painterly-harmonization) - Photoshopping an object into a painting, and then neural network changes the style (pallete, strokes, luminosity, etc) of the object to match the painting style. [See paper](https://arxiv.org/abs/1804.03189).
