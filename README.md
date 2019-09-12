@@ -114,7 +114,7 @@ Turn your two-bit doodles into fine artworks with deep neural networks, generate
 
 - [deep-image-prior](https://github.com/DmitryUlyanov/deep-image-prior) -  Image restoration with neural networks but without learning. Does artifact removal, inpainting, super-resolution, denoising.
 
-## Lectures/Reviews
+## Lectures
 
 - [The Neural Aesthetic @ ITP-NYU, Fall 2018](https://ml4a.github.io/classes/itp-F18/)
 - [Neural Style Transfer Review](https://github.com/ycjing/Neural-Style-Transfer-Papers) - Repo for the [Neural Style Transfer review article](https://arxiv.org/abs/1705.04058).
