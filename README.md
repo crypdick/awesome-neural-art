@@ -79,7 +79,7 @@ Neat features:
 
 AKA in-painting
 
-- [Generative Image Inpainting with Contextual Attention](Generative Image Inpainting with Contextual Attention) - 
+- [DeepFill V1](https://github.com/JiahuiYu/generative_inpainting) - Generative Image Inpainting with Contextual Attention.
 - [EdgeConnect](https://github.com/knazeri/edge-connect) - a two-stage adversarial model that comprises of an edge generator followed by an image completion network.
 <img src='https://user-images.githubusercontent.com/1743048/50673917-aac15080-0faf-11e9-9100-ef10864087c8.png' width=820>
 - [Deep Image Completion](https://github.com/adamstseng/general-deep-image-completion) - Contains face-completion and general image completion models. Each can complete images with differnet types of corrupted masks like scribbles, lines, dots and texts.
