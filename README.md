@@ -186,11 +186,18 @@ Originally intended to clean up deconvolution checkerboard artifacts, found in s
 
 # Image matting
 
-AKA subtracting the background from the foreground. The following are all different implementations of the [following [paper](https://sites.google.com/view/deepimagematting).
+AKA subtracting the background from the foreground. 
+
+## [Dataset generator](https://github.com/hector-sab/DIM_DataCreation)
+
+## 
+
+Implementations of the [following [paper](https://sites.google.com/view/deepimagematting).
 
 ### [Tensorflow implementation](https://github.com/Joker316701882/Deep-Image-Matting)
 
 Original paper author.
+
 
 ### [Keras implementaion](https://github.com/foamliu/Deep-Image-Matting)
 
@@ -201,6 +208,18 @@ Unmaintained.
 Same author as Keras implementation, this is their improved codebase.
 
 ### [Another PyTorch implementation](https://github.com/huochaitiantang/pytorch-deep-image-matting)
+
+## [Salient Object Detection](https://github.com/Joker316701882/Salient-Object-Detection)
+
+Tensorflow implementation for cvpr2017 paper ["Deeply Supervised Salient Object Detection with Short Connections"](https://arxiv.org/abs/1611.04849) (not peer reviewed). Same author as original Deep Image Matting author.
+
+## [AlphaGAN](https://github.com/CDOTAD/AlphaGAN-Matting)
+
+Unofficial implementation of [AlphaGAN: Generative adversarial networks for natural image matting](https://arxiv.org/pdf/1807.10088.pdf). Uses a GAN as the name suggests.
+
+## [DeepLab V3+](https://github.com/jfzhang95/pytorch-deeplab-xception)
+
+Implementations of an encoder-decoder Modified Aligned Xception and ResNet as backbone [(paper)](https://arxiv.org/pdf/1802.02611.pdf).
 
 # Deep Dream
 
