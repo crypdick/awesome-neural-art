@@ -16,7 +16,7 @@ Creating art and manipulating images using deep neural networks.
 
 ## Colorization
 
-See also: [this subreddit](https://www.reddit.com/r/Colorization) where people do this manually.
+See also: [Awesome Image Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization) and the [colorization subreddit](https://www.reddit.com/r/Colorization) where people do this manually.
 
 - [Interactive Deep Colorization](https://github.com/junyanz/interactive-deep-colorization)
 
