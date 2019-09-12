@@ -10,7 +10,7 @@ Creating art and manipulating images using deep neural networks.
 - [Patching](#patching)
 - [Image matting](#image-matting)
 - [Deep Dream](#deep-dream)
-- [Doodle to Image](#doodle-to-image)
+- [Interactive Art](#interactive-art)
 - [Multiple categories](#multi-category)
 - [Lectures](#lectures)
 
@@ -31,9 +31,6 @@ See also: [this subreddit](https://www.reddit.com/r/Colorization) where people d
 - [Colorful Image Colorization](https://github.com/richzhang/colorization)
 
 <img src='https://camo.githubusercontent.com/0f54d76e1561911ef2c423251c386a9368551365/687474703a2f2f726963687a68616e672e6769746875622e696f2f636f6c6f72697a6174696f6e2f7265736f75726365732f696d616765732f746561736572342e6a7067' width=600>  
-
-
-- [style2paints](https://github.com/lllyasviel/style2paints/) - sketch + style = paints art.
 
 ## Style Transfer
 
@@ -98,7 +95,7 @@ AKA subtracting the background from the foreground. See also: [Awesome Backgroun
 
 - [deepdream](https://github.com/google/deepdream) - The original Google implementation.
 
-## Doodle to Image
+## Interactive art
 
 - [neural-doodle](https://github.com/alexjc/neural-doodle) - 
 Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling, but wait... there's more! (An implementation of Semantic Style Transfer.) 
@@ -110,6 +107,7 @@ Turn your two-bit doodles into fine artworks with deep neural networks, generate
 
 <img src='https://raw.githubusercontent.com/junyanz/iGAN/master/pics/demo.gif' width=820>  
 
+- [style2paints](https://github.com/lllyasviel/style2paints/) - An AI-driven interactive line art colorization tool. Backend is a Residual U-net and Auxiliary Classifier GAN.
 
 ## Multiple categories
 
