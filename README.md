@@ -11,7 +11,7 @@ Creating art and manipulating images using deep neural networks.
 - [Background subtraction](#background-subtraction)
 - [Deep Dream](#deep-dream)
 - [Interactive art](#interactive-art)
-- [Multiple categories](#multiple-category)
+- [Multiple categories](#multiple-categories)
 - [Lectures](#lectures)
 
 ## Colorization
@@ -42,7 +42,7 @@ See also: [this subreddit](https://www.reddit.com/r/Colorization) where people d
 - [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer) - Code and data for ["Deep Photo Style Transfer"](https://arxiv.org/abs/1703.07511).
 - [fast-style-transfer](https://github.com/lengstrom/fast-style-transfer#image-stylization) - TensorFlow CNN for fast style transfer with larger scale style features in transformations.
 - [texture_nets](https://github.com/DmitryUlyanov/texture_nets) - Code for "Texture Networks: Feed-forward Synthesis of Textures and Stylized Images". 
-- [AdaIN-style](https://github.com/xunhuang1995/AdaIN-style) - Code for [Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://arxiv.org/abs/1703.06868). Contains neat features such as transfering style without color, style interpolation, and spatial control
+- [AdaIN-style](https://github.com/xunhuang1995/AdaIN-style) - Code for [Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://arxiv.org/abs/1703.06868). Contains neat features such as transfering style without color, style interpolation, and spatial control.
 
 <img src='https://raw.githubusercontent.com/xunhuang1995/AdaIN-style/master/examples/style_interp.jpg' width=600>  
 <img src='https://raw.githubusercontent.com/xunhuang1995/AdaIN-style/master/examples/spatial_control.jpg' width=600>  
