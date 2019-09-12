@@ -129,3 +129,8 @@ Turn your two-bit doodles into fine artworks with deep neural networks, generate
 - [The Neural Aesthetic @ ITP-NYU, Fall 2018](https://ml4a.github.io/classes/itp-F18/)
 - [Neural Style Transfer Review](https://github.com/ycjing/Neural-Style-Transfer-Papers) - Repo for the [Neural Style Transfer review article](https://arxiv.org/abs/1705.04058).
 
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Richard Decal](https://www.richarddecal.com) has waived all copyright and related or neighboring rights to this work.
