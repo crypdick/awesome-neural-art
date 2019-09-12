@@ -1,6 +1,6 @@
 # Awesome Neural Art [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-A curated list of awesome neural network-based art resources. 
+Creating art and manipulating images using deep neural networks.
 
 # Contents
 
