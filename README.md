@@ -5,7 +5,7 @@ Creating art and manipulating images using deep neural networks.
 ## Contents
 
 - [Colorization](#colorization)
-- [Style Transfer](#style-transfer
+- [Style Transfer](#style-transfer)
 - [Super Resolution](#super-resolution)
 - [Patching](#patching)
 - [Image matting](#image-matting)
@@ -16,7 +16,7 @@ Creating art and manipulating images using deep neural networks.
 
 ## Colorization
 
-A subreddit where people do this manually: https://www.reddit.com/r/Colorization
+See also: [this subreddit](https://www.reddit.com/r/Colorization) where people do this manually.
 
 - [Interactive Deep Colorization](https://github.com/junyanz/interactive-deep-colorization)
 
@@ -42,21 +42,9 @@ A subreddit where people do this manually: https://www.reddit.com/r/Colorization
 <img src='https://raw.githubusercontent.com/jcjohnson/neural-style/master/examples/outputs/starry_stanford_bigger.png' width=600>  
 
 - [adaptive-style-transfer](https://github.com/tensorlayer/adaptive-style-transfer) - Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization.
-
-https://github.com/tensorlayer/adaptive-style-transfer#results
-
-- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer) - Code and data for paper "Deep Photo Style Transfer": https://arxiv.org/abs/1703.07511
-
-
-https://github.com/luanfujun/deep-photo-styletransfer#examples
-
-- [fast-style-transfer](https://github.com/lengstrom/fast-style-transfer#image-stylization) - TensorFlow CNN for fast style transfer
-
-
-Our implementation uses TensorFlow to train a fast style transfer network. We use roughly the same transformation network as described in Johnson, except that batch normalization is replaced with Ulyanov's instance normalization, and the scaling/offset of the output tanh layer is slightly different. We use a loss function close to the one described in Gatys, using VGG19 instead of VGG16 and typically using "shallower" layers than in Johnson's implementation (e.g. we use relu1_1 rather than relu1_2). Empirically, this results in larger scale style features in transformations.
-
-- [texture_nets](https://github.com/DmitryUlyanov/texture_nets) - Code for "Texture Networks: Feed-forward Synthesis of Textures and Stylized Images" paper. 
-
+- [deep-photo-styletransfer](https://github.com/luanfujun/deep-photo-styletransfer) - Code and data for ["Deep Photo Style Transfer"](https://arxiv.org/abs/1703.07511).
+- [fast-style-transfer](https://github.com/lengstrom/fast-style-transfer#image-stylization) - TensorFlow CNN for fast style transfer with larger scale style features in transformations.
+- [texture_nets](https://github.com/DmitryUlyanov/texture_nets) - Code for "Texture Networks: Feed-forward Synthesis of Textures and Stylized Images". 
 - [AdaIN-style](https://github.com/xunhuang1995/AdaIN-style) - Code for [Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization](https://arxiv.org/abs/1703.06868)
 
 Neat features:
@@ -84,7 +72,7 @@ Pytorch implementation. Given the same night image, our model is able to synthes
 
 - [Neural Style Transfer](https://github.com/titu1994/Neural-Style-Transfer) - Keras Implementation of Neural Style Transfer from the paper ["A Neural Algorithm of Artistic Style"](http://arxiv.org/abs/1508.06576) in Keras 2.0+
 
-- [Deep Painterly Harmonization](https://github.com/luanfujun/deep-painterly-harmonization) - Photoshopping an object into a painting, and then neural network changes the style (pallete, strokes, luminosity, etc) of the object to match the painting style. Paper: https://arxiv.org/abs/1804.03189
+- [Deep Painterly Harmonization](https://github.com/luanfujun/deep-painterly-harmonization) - Photoshopping an object into a painting, and then neural network changes the style (pallete, strokes, luminosity, etc) of the object to match the painting style. [See paper](https://arxiv.org/abs/1804.03189).
 
 # Super Resolution
 
