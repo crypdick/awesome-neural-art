@@ -100,7 +100,7 @@ AKA subtracting the background from the foreground. See also: [Awesome Backgroun
 - [neural-doodle](https://github.com/alexjc/neural-doodle) - 
 Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling, but wait... there's more! (An implementation of Semantic Style Transfer.) 
 
-<img src='https://github.com/alexjc/neural-doodle/blob/master/docs/Workflow.gifx' width=820>  
+<img src='https://github.com/alexjc/neural-doodle/blob/master/docs/Workflow.gif' width=820>  
 
 
 - [iGAN](https://github.com/junyanz/iGAN) - iGAN: Interactive Image Generation via Generative Adversarial Networks.
