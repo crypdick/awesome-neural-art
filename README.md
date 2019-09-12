@@ -35,7 +35,7 @@ See also: [this subreddit](https://www.reddit.com/r/Colorization) where people d
 
 - [style2paints](https://github.com/lllyasviel/style2paints/) - sketch + style = paints art 
 
-# Style Transfer
+## Style Transfer
 
 - [neural-style](https://github.com/jcjohnson/neural-style) - Torch implementation of neural style algorithm
 
