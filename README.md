@@ -33,11 +33,11 @@ See also: [this subreddit](https://www.reddit.com/r/Colorization) where people d
 <img src='https://camo.githubusercontent.com/0f54d76e1561911ef2c423251c386a9368551365/687474703a2f2f726963687a68616e672e6769746875622e696f2f636f6c6f72697a6174696f6e2f7265736f75726365732f696d616765732f746561736572342e6a7067' width=600>  
 
 
-- [style2paints](https://github.com/lllyasviel/style2paints/) - sketch + style = paints art 
+- [style2paints](https://github.com/lllyasviel/style2paints/) - sketch + style = paints art.
 
 ## Style Transfer
 
-- [neural-style](https://github.com/jcjohnson/neural-style) - Torch implementation of neural style algorithm
+- [neural-style](https://github.com/jcjohnson/neural-style) - Torch implementation of neural style algorithm.
 
 <img src='https://raw.githubusercontent.com/jcjohnson/neural-style/master/examples/outputs/starry_stanford_bigger.png' width=600>  
 
@@ -65,17 +65,16 @@ Neat features:
 
 ## Neural Style Transfer & Neural Doodles
 
-- [Neural Style Transfer](https://github.com/titu1994/Neural-Style-Transfer) - Keras Implementation of Neural Style Transfer from the paper ["A Neural Algorithm of Artistic Style"](http://arxiv.org/abs/1508.06576) in Keras 2.0+
-
+- [Neural Style Transfer](https://github.com/titu1994/Neural-Style-Transfer) - Keras Implementation of Neural Style Transfer from the paper ["A Neural Algorithm of Artistic Style"](http://arxiv.org/abs/1508.06576) in Keras 2.0+.
 - [Deep Painterly Harmonization](https://github.com/luanfujun/deep-painterly-harmonization) - Photoshopping an object into a painting, and then neural network changes the style (pallete, strokes, luminosity, etc) of the object to match the painting style. [See paper](https://arxiv.org/abs/1804.03189).
 
 ## Super Resolution
 
-- [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art 
+- [waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art.
 
 <img src='https://raw.githubusercontent.com/nagadomi/waifu2x/master/images/slide.png' width=820>  
 
-- [srgan](https://github.com/tensorlayer/srgan) - Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network 
+- [srgan](https://github.com/tensorlayer/srgan) - Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network.
 
 <img src='https://raw.githubusercontent.com/tensorlayer/srgan/master/img/SRGAN_Result3.png' width=820>  
 
@@ -109,14 +108,14 @@ Turn your two-bit doodles into fine artworks with deep neural networks, generate
 <img src='https://github.com/alexjc/neural-doodle/blob/master/docs/Workflow.gifx' width=820>  
 
 
-- [iGAN](https://github.com/junyanz/iGAN) - iGAN: Interactive Image Generation via Generative Adversarial Networks
+- [iGAN](https://github.com/junyanz/iGAN) - iGAN: Interactive Image Generation via Generative Adversarial Networks.
 
 <img src='https://raw.githubusercontent.com/junyanz/iGAN/master/pics/demo.gif' width=820>  
 
 
 ## Multiple categories
 
-- [deep-image-prior](https://github.com/DmitryUlyanov/deep-image-prior) -  Image restoration with neural networks but without learning. Does artifact removal, inpainting, super-resolution, denoising
+- [deep-image-prior](https://github.com/DmitryUlyanov/deep-image-prior) -  Image restoration with neural networks but without learning. Does artifact removal, inpainting, super-resolution, denoising.
 
 ## Lectures/Reviews
 
