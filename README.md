@@ -11,7 +11,7 @@ Creating art and manipulating images using deep neural networks.
 - [Image matting](#image-matting)
 - [Deep Dream](#deep-dream)
 - [Interactive art](#interactive-art)
-- [Multiple categories](#multi-category)
+- [Multiple categories](#multiple-category)
 - [Lectures](#lectures)
 
 ## Colorization
