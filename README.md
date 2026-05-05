@@ -1,5 +1,7 @@
 # Awesome Neural Art [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
+_Update, May 2026:_ I started this repo in 2018. Since then, neural art has come a very long way. I'm keeping this page around as a time capsule of the early days of neural art.
+
 Creating art and manipulating images using deep neural networks.
 
 ## Contents
